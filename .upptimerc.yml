@@ -3,11 +3,16 @@ owner: EPOS ERIC # Your GitHub organization or username, where this repository l
 repo: monitor # The name of this repository
 
 sites:
-  - name: EPOS Platform API
-    url: https://www.ics-c.epos-eu.org/api/v1/
+  - name: EPOS Platform API Swagger
+    url: https://www.ics-c.epos-eu.org/api/v1/ui/
 assignees:
   - vvalerio
   - Marco-Salvi
+  - rpaciello
+  - Kety20
+  - Mario3999
+  - danielebailo
+  - AleCrocetta
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
