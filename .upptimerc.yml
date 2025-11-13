@@ -1,0 +1,30 @@
+# Change these first
+owner: EPOS ERIC # Your GitHub organization or username, where this repository lives
+repo: monitor # The name of this repository
+
+sites:
+  - name: EPOS Platform API
+    url: https://www.ics-c.epos-eu.org/api/v1/
+    expectedStatusCodes:
+    - 403
+    - 404
+assignees:
+  - vvalerio
+  - Marco-Salvi
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /monitor
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: EPOS ERIC service status
+  introTitle: EPOS ERIC service status
+  introMessage: Live status page for EPOS ERIC services
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
