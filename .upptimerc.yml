@@ -5,9 +5,6 @@ repo: monitor # The name of this repository
 sites:
   - name: EPOS Platform API
     url: https://www.ics-c.epos-eu.org/api/v1/
-    expectedStatusCodes:
-    - 403
-    - 404
 assignees:
   - vvalerio
   - Marco-Salvi
