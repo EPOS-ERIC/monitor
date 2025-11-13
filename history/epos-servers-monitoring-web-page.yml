@@ -1,7 +1,7 @@
 url: https://epos-services.vm.fedcloud.eu/monitoring/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-13T11:30:17.453Z
+status: up
+code: 200
+responseTime: 827
+lastUpdated: 2025-11-13T12:58:24.130Z
 startTime: 2025-11-13T11:00:55.128Z
 generator: Upptime <https://github.com/upptime/upptime>
