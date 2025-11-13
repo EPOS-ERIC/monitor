@@ -10,11 +10,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2481,
-    "timeDay": 2481,
-    "timeWeek": 2481,
-    "timeMonth": 2481,
-    "timeYear": 2481,
+    "time": 2436,
+    "timeDay": 2436,
+    "timeWeek": 2436,
+    "timeMonth": 2436,
+    "timeYear": 2436,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "EPOS Servers Monitoring WebPage",
+    "url": "https://epos-services.vm.fedcloud.eu/monitoring/",
+    "icon": "https://icons.duckduckgo.com/ip3/epos-services.vm.fedcloud.eu.ico",
+    "slug": "epos-servers-monitoring-web-page",
+    "status": "down",
+    "uptime": "42.94%",
+    "uptimeDay": "42.94%",
+    "uptimeWeek": "42.94%",
+    "uptimeMonth": "42.94%",
+    "uptimeYear": "42.94%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-11-13": 1
+    }
+  },
+  {
+    "name": "EPOS Servers Monitoring Zabbix",
+    "url": "https://epos-services.vm.fedcloud.eu/zabbix/zabbix.php",
+    "icon": "https://icons.duckduckgo.com/ip3/epos-services.vm.fedcloud.eu.ico",
+    "slug": "epos-servers-monitoring-zabbix",
+    "status": "down",
+    "uptime": "83.33%",
+    "uptimeDay": "83.33%",
+    "uptimeWeek": "83.33%",
+    "uptimeMonth": "83.33%",
+    "uptimeYear": "83.33%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-11-13": 0
+    }
   }
 ]
