@@ -4,19 +4,19 @@
     "url": "https://www.ics-c.epos-eu.org/api/v1/ui/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ics-c.epos-eu.org.ico",
     "slug": "epos-platform-api-swagger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2236,
-    "timeDay": 1597,
-    "timeWeek": 2096,
-    "timeMonth": 2200,
-    "timeYear": 2236,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 2264,
+    "timeDay": 2218,
+    "timeWeek": 2248,
+    "timeMonth": 2240,
+    "timeYear": 2264,
     "dailyMinutesDown": {
-      "2025-12-22": 0
+      "2025-12-22": 34
     }
   },
   {
