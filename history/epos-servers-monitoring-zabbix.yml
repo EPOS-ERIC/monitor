@@ -1,7 +1,7 @@
 url: https://epos-services.vm.fedcloud.eu/zabbix/zabbix.php
 status: up
 code: 200
-responseTime: 670
-lastUpdated: 2026-05-28T23:59:04.440Z
+responseTime: 525
+lastUpdated: 2026-05-29T23:58:53.014Z
 startTime: 2025-11-13T11:01:28.463Z
 generator: Upptime <https://github.com/upptime/upptime>
